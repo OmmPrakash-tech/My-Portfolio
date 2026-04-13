@@ -9,14 +9,14 @@
     "lint": "eslint ."
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Omm Prakash Debata",
+  "email": "ommprakashdebata6@gmail.com",
+  "url": "https://github.com/OmmPrakash-tech"
   },
-  "description": "Welcome to my full stack Next.js 14 space portfolio.",
+  "description": "Personal portfolio built with Next.js, showcasing projects, skills, and contact information.",
   "keywords": [
     "reactjs",
-    "nextjs",
+    "Next.js",
     "vercel",
     "react",
     "space-portfolio",
@@ -46,15 +46,14 @@
     "css"
   ],
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sanidhyy/space-portfolioit"
-  },
-  "homepage": "https://github.com/sanidhyy/space-portfolio#readme",
-  "bugs": {
-    "url": "https://github.com/sanidhyy/space-portfolio/issues",
-    "email": "sanidhya.verma12345@gmail.com"
-  },
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/OmmPrakash-tech/My-Portfolio.git"
+},
+"homepage": "https://github.com/OmmPrakash-tech/My-Portfolio",
+"bugs": {
+  "url": "https://github.com/OmmPrakash-tech/My-Portfolio/issues"
+},
   "funding": [
     {
       "type": "patreon",
