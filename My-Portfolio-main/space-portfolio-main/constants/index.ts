@@ -53,18 +53,14 @@ export const SOCIALS = [
   {
     name: "GitHub",
     icon: RxGithubLogo,
-    link: "https://github.com/your-username",
+    link: "https://github.com/OmmPrakash-tech",
   },
   {
     name: "LinkedIn",
     icon: RxLinkedinLogo,
-    link: "https://linkedin.com/in/your-profile",
+    link: "https://www.linkedin.com/in/omm-prakash-debata-bb982627b",
   },
-  {
-    name: "Twitter",
-    icon: RxTwitterLogo,
-    link: "https://x.com/your-handle",
-  },
+ 
 ] as const;
 
 /* ===================== FRONTEND ===================== */
@@ -131,15 +127,13 @@ export const FOOTER_DATA = [
   {
     title: "Community",
     data: [
-      { name: "YouTube", icon: FaYoutube, link: "https://youtube.com" },
       { name: "GitHub", icon: RxGithubLogo, link: "https://github.com/OmmPraksh-tech" },
     ],
   },
   {
     title: "Social Media",
     data: [
-      { name: "Twitter", icon: RxTwitterLogo, link: "https://x.com/your-handle" },
-      { name: "LinkedIn", icon: RxLinkedinLogo, link: "https://linkedin.com/in/your-profile" },
+      { name: "LinkedIn", icon: RxLinkedinLogo, link: "https://www.linkedin.com/in/omm-prakash-debata-bb982627b" },
     ],
   },
   {
@@ -147,7 +141,7 @@ export const FOOTER_DATA = [
     data: [
       { name: "About Me", icon: null, link: "#about-me" },
       { name: "Projects", icon: null, link: "#projects" },
-      { name: "Contact Me", icon: null, link: "mailto:yourmail@gmail.com" },
+      { name: "Contact Me", icon: null, link: "mailto:ommprakashdebata6@gmail.com@gmail.com" },
     ],
   },
 ] as const;
@@ -163,5 +157,5 @@ export const NAV_LINKS = [
 /* ===================== LINKS ===================== */
 
 export const LINKS = {
-  sourceCode: "https://github.com/your-username/your-portfolio",
+  sourceCode: "https://github.com/OmmPrakash-tech/My-Portfolio.git",
 };

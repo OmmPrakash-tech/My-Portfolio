@@ -28,9 +28,10 @@ export default function RootLayout({ children }: PropsWithChildren) {
         )}
       >
         {/* Background Stars */}
-        <div className="fixed inset-0 -z-10">
-          {typeof window !== "undefined" && <StarsCanvas />}
-        </div>
+        // ✅ Correct
+<div className="fixed inset-0 -z-10">
+  <StarsCanvas />
+</div>
 
         <Navbar />
         {children}
