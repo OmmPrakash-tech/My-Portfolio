@@ -32,7 +32,7 @@ export const siteConfig: Metadata = {
     title: "Omm Prakash Debata Portfolio",
     description:
       "Explore my projects in full stack development, AI/ML, and modern web technologies.",
-    url: "https://your-portfolio-link.com", // 🔴 replace after deploy
+    url: "https://my-portfolio-ten-tau-78.vercel.app/", // 🔴 replace after deploy
     siteName: "Omm Portfolio",
     images: [
       {
