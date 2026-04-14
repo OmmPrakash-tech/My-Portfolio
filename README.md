@@ -12,7 +12,7 @@ A modern, responsive, and interactive **Full Stack Developer Portfolio** built u
 ## 🌐 Live Demo
 
 👉 (https://my-portfolio-ten-tau-78.vercel.app/)
-*(Replaced with deployed link)*
+
 
 ---
 
