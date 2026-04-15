@@ -35,6 +35,8 @@ export async function GET() {
     body: JSON.stringify({ query }),
   });
 
+  
+
   const json = await res.json();
 
   if (!json.data) {
@@ -69,5 +71,6 @@ export async function GET() {
     repos: user.repositories.totalCount,
     currentStreak,
     maxStreak,
+    days,
   });
 }

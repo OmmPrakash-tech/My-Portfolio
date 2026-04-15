@@ -4,6 +4,8 @@ import { Projects } from "@/components/main/projects";
 import { Skills } from "@/components/main/skills";
 import { GithubStats } from "@/components/main/github-stats";
 import { Contact } from "@/components/main/contact";
+import { Heatmap } from "@/components/main/heatmap";
+
 
 export default function Home() {
   return (
