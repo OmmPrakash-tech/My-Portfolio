@@ -10,8 +10,8 @@
   },
   "author": {
     "name": "Omm Prakash Debata",
-  "email": "ommprakashdebata6@gmail.com",
-  "url": "https://github.com/OmmPrakash-tech"
+    "email": "ommprakashdebata6@gmail.com",
+    "url": "https://github.com/OmmPrakash-tech"
   },
   "description": "Personal portfolio built with Next.js, showcasing projects, skills, and contact information.",
   "keywords": [
@@ -46,14 +46,14 @@
     "css"
   ],
   "license": "MIT",
- "repository": {
-  "type": "git",
-  "url": "https://github.com/OmmPrakash-tech/My-Portfolio.git"
-},
-"homepage": "https://github.com/OmmPrakash-tech/My-Portfolio",
-"bugs": {
-  "url": "https://github.com/OmmPrakash-tech/My-Portfolio/issues"
-},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OmmPrakash-tech/My-Portfolio.git"
+  },
+  "homepage": "https://github.com/OmmPrakash-tech/My-Portfolio",
+  "bugs": {
+    "url": "https://github.com/OmmPrakash-tech/My-Portfolio/issues"
+  },
   "funding": [
     {
       "type": "patreon",
@@ -81,8 +81,8 @@
   },
   "devDependencies": {
     "@types/node": "^25",
-    "@types/react": "19.2.14",
-    "@types/react-dom": "19.2.3",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
     "autoprefixer": "^10.4.27",
     "eslint": "^9.39.4",
     "eslint-config-next": "16.2.2",
