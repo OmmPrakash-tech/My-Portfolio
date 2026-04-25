@@ -15,7 +15,7 @@ export default function Home() {
         <Skills />
         <Encryption />
         <Projects />
-        <GithubStats />
+        
         <Contact />
       </div>
     </main>
