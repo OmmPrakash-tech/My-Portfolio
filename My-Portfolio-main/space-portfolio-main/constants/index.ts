@@ -58,7 +58,7 @@ export const SOCIALS = [
   {
     name: "LinkedIn",
     icon: RxLinkedinLogo,
-    link: "https://www.linkedin.com/in/omm-prakash-debata-bb982627b",
+    link: "https://www.linkedin.com/in/omm-prakash-debata/",
   },
  
 ] as const;
